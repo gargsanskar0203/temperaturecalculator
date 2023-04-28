@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 1em;
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  div {
+    margin: 1em;
+  }
+  
+  label {
+    display: inline-block;
+    width: 6em;
+  }
+  
+  input[type=text], select {
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    margin: 1em;
+    padding: 0.5em;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
